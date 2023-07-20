@@ -30,5 +30,17 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: issue_number,
-              body: '<a href="https://liferay.atlassian.net/wiki/spaces/~313362024/pages/2391179332/Clay+new+processO">Texto do Link</a>'
+              body: ' 
+              <h1> 
+              Thanks for sending your issue to PEDS Team.
+              </h1>
+              <h2>
+              We appreciate your contribution, but we're not using github issues anymore to track and prioritize our work. Right now, we're using LPS tickets, so please create your LPS tickets and we will be happy to see more about your issue ;)
+              </h2> 
+              <h2>
+               <a href="https://liferay.atlassian.net/wiki/spaces/~313362024/pages/2391179332/Clay+new+processO"> Link for How to open a LPS ticket to Clay</a>'
+              </h2>
+              <h3>
+              If you are external contributor, please contact our support team :)
+              </h3>
             });
