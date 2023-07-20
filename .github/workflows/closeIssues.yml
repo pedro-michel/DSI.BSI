@@ -31,7 +31,7 @@ jobs:
               Thanks for sending your Clay issue to PEDS Team.
             </h1>
             <h2>
-              We appreciate your contribution, However, please be informed that we have transitioned away from using GitHub issues to track and prioritize our work. At present, we are exclusively utilizing LPS tickets for issue management. Therefore, we kindly request you to create your LPS tickets for any new matters or inquiries ;)
+              @${author}, we appreciate your contribution, however, please be informed that we have transitioned away from using GitHub issues to track and prioritize our work. At present, we are exclusively utilizing LPS tickets for issue management. Therefore, we kindly request you to create your LPS tickets for any new matters or inquiries ;)
             </h1>
             <a href="https://liferay.atlassian.net/wiki/spaces/~313362024/pages/2391179332/Clay+new+processO">Link for How To Open a LPS Ticket to Clay</a>
             </h1>
