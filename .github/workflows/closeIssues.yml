@@ -31,6 +31,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const issue_number = context.payload.issue.number;
+            const author = context.payload.comment ? context.payload.comment.user.login : '${{ steps.get_author.outputs.author }}';
             const comment = `
             <h1>
               Thanks for sending your Clay issue to PEDS Team.
